@@ -6,4 +6,10 @@
     width: 155px;
       padding: 2px;
   }
-  
+
+  .loginBlock {
+      float: right;
+  }
+  .loginBlock a {
+      color: aliceblue;
+  }
